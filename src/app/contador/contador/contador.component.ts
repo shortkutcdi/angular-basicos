@@ -13,4 +13,4 @@ export class ContadorComponent {
   acumular( valor: number ){
     this.numero += valor;
   }
-}git log
+}
